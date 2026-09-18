@@ -84,7 +84,7 @@
   "ae2.rei_jei_integration.no_output": "Рецепт не имеет выхода",
   "ae2.rei_jei_integration.p2p_api_attunement": "Связать с любым:",
   "ae2.rei_jei_integration.p2p_tag_attunement": "Связать с любым показанным предметом",
-  "ae2.rei_jei_integration.p2p_tunnel_attunement": "Настройка туннеля точка-точка",
+  "ae2.rei_jei_integration.p2p_tunnel_attunement": "Настройка P2P-тоннелей",
   "ae2.rei_jei_integration.quartz_buds_grow_on_budding_quartz": "Кристаллы растут на цветущих блоках истинного кварца.",
   "ae2.rei_jei_integration.recipe_too_large": "Рецепт больше, чем 3x3",
   "ae2.rei_jei_integration.requires_processing_mode": "Требуется режим обработки",
